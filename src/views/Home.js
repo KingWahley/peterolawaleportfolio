@@ -60,7 +60,7 @@ const Home = () => {
             </h2>
             <h4 ref={homeLine2}>Welcome to my space!</h4>
             <p ref={homeLine3}>
-              I’m Peter Olawale, a front-end engineer shaping how users
+              I’m Peter Olawale, a Web Developer shaping how users
               experience the web through clean, scalable interfaces.
             </p>
             <div className="social-links">

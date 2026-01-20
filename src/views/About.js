@@ -68,7 +68,7 @@ const About = () => {
 							About Me <span className="emoji">✌🏾</span>
 						</h2>
 						<p ref={ref2} className="about-p">
-							I focus on creating web experiences that are clear, efficient, and user-centered. I approach development with a growth mindset, continuously improving my skills while embracing both modern. When  I'm not working, I stay curious through tech blogs, play football and unwind with video games.
+							I create web experiences that are clear, efficient, and user-centered. I approach development with a growth mindset, continuously improving my skills while embracing both modern. When  I'm not working, I stay curious through tech blogs, play football and unwind with video games.
 						</p>
 						<p ref={ref4} className="about-p">
 							Technologies & Tools: React, JavaScript, TypeScript, Next.js, TailwndCss, Firebase Supabase.
