@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-
-
+import DarkModeToggle from './DarkModeToggle';
 
 
 
@@ -22,7 +21,7 @@ const Navbar = () => {
             <div className="container">
                 <div className="nav-items">
                     <div className="logo">
-                        {/* <Link to="/"><img src={logo} alt="logo"/></Link> */}
+                          <DarkModeToggle />
                     </div>
 
                     <div onClick={showMenu} className="hamburger-menu">
