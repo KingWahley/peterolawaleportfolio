@@ -81,7 +81,7 @@ const About = () => {
 								target="_blank"
 								rel="noreferrer"
 							>
-								Here.
+								Here..
 							</a>
 						</p>
 
