@@ -15,7 +15,7 @@ export const data = [
     preview: "https://foodoo-ochre.vercel.app/",
   },
   {
-    name: "SummerHuse",
+    name: "Summer House",
     description:
       "A real estate webapp where users can find listings that are for sale or for rent.",
     thumbnail: summer,
