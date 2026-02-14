@@ -43,7 +43,7 @@ export const data = [
   {
     name: `Caffeine`,
     description:
-      " Website for an online coffee shop, users can find and place orders for coffee of their choice",
+      " Website for an online coffee shop, users can find and place orders for coffee of their choice.",
     thumbnail: caff,
     tools: ["react", "Next js", "TailwindCss", "JavaScript"],
     github: "https://github.com/KingWahley/coffeeshop",
