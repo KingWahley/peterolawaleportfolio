@@ -4,8 +4,27 @@ import caff from "../assets/imgs/project_thumbnails/caff.png";
 import summer from "../assets/imgs/project_thumbnails/summer.png";
 import Foodoo from "../assets/imgs/project_thumbnails/Foodoo.png";
 import Owambe from "../assets/imgs/project_thumbnails/Owambe.png";
+import Adtlax from "../assets/imgs/project_thumbnails/Adtlax.png";
+import TGMotors from "../assets/imgs/project_thumbnails/TGMotors.png";
+
 
 export const data = [
+  {
+    name: "Adtlax",
+    description: "Media Buying Agency Website",
+    thumbnail: Adtlax,
+    tools: ["React", "Next js", "JavaScript", "TailwindCss"],
+    github: "https://github.com/KingWahley/FOODOO",
+    preview: "https://adtlaxagency.vercel.app/",
+  },
+  {
+    name: "TG-Motors",
+    description: "Online Bus Booking Website",
+    thumbnail: TGMotors,
+    tools: ["React", "Next js", "JavaScript", "TailwindCss"],
+    github: "https://github.com/KingWahley/FOODOO",
+    preview: "https://adtlaxagency.vercel.app/",
+  },
   {
     name: "FooDoo",
     description: "Ai powered website for a Restaurant.",
