@@ -6,9 +6,29 @@ import Foodoo from "../assets/imgs/project_thumbnails/Foodoo.png";
 import Owambe from "../assets/imgs/project_thumbnails/Owambe.png";
 import Adtlax from "../assets/imgs/project_thumbnails/Adtlax.png";
 import TGMotors from "../assets/imgs/project_thumbnails/TGMotors.png";
+import cleaning from "../assets/imgs/project_thumbnails/cleaning.png";
+import Maivan from "../assets/imgs/project_thumbnails/Maivan.png";
+
+
 
 
 export const data = [
+  {
+    name: "286Hygiene",
+    description: "Website for a cleaning agency",
+    thumbnail: cleaning,
+    tools: ["React", "Next js", "JavaScript", "TailwindCss"],
+    github: "https://github.com/bruantech/286hygiene",
+    preview: "https://286hygienecleaning.vercel.app/",
+  },
+  {
+    name: "Maivan Luxury Apartments",
+    description: "Website for Luxury Apartments Shortlets",
+    thumbnail: Maivan,
+    tools: ["React", "Next js", "JavaScript", "TailwindCss"],
+    github: "https://github.com/KingWahley/MaivianLuxury",
+    preview: "https://www.maivanluxuryapartments.com/",
+  },
   {
     name: "Adtlax",
     description: "Media Buying Agency Website",
